@@ -6002,8 +6002,8 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 104.322144 30.15)
-		(end 170.322144 106.15)
+		(start 102.74 30.15)
+		(end 172.74 106.15)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -6013,30 +6013,30 @@
 		(uuid "6b431b75-683c-46df-9533-d532f81579fe")
 	)
 	(gr_circle
-		(center 107 35)
-		(end 108.5 35)
+		(center 106 35)
+		(end 107.650273 35)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "b073573f-4dc7-4343-9496-5526f84e8587")
+		(uuid "33e0c0ca-2a90-41dc-9092-20b1cc47d0ef")
 	)
 	(gr_circle
-		(center 107 98)
-		(end 108.5 98)
+		(center 106 100)
+		(end 107.650273 100)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "a7a4361c-8b7d-42a3-a61f-c63c819da8c3")
+		(uuid "ce23585c-378c-4be8-bdea-e937ce87d2ee")
 	)
 	(gr_circle
-		(center 168.2 35)
-		(end 169.7 35)
+		(center 170 35)
+		(end 171.650273 35)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -6046,15 +6046,15 @@
 		(uuid "6276c182-a3d7-44ca-a2b1-a8e8b757bb1f")
 	)
 	(gr_circle
-		(center 168.2 98)
-		(end 169.7 98)
+		(center 170 100)
+		(end 171.650273 100)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "f5710a42-89fe-4a21-9714-881918bab009")
+		(uuid "a13385cc-3408-44d8-a93d-806c2e273e7c")
 	)
 	(gr_text "DESIGNED BY ISHAN KARAR"
 		(at 148.44 105.25 0)
