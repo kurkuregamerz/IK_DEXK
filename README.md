@@ -1,12 +1,13 @@
-﻿# IK DEXK 
+# IK DEXK 
 IK DEXK is a macropad that has 9 MX Keyboard switches and 1 OLED 0.91 inch Display.
 
 ## Preview of Designs  
   <img width="1919" height="1079" alt="image" src="/Production/ASSBMBLY_IK_DEXK.png" />
   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fafabd49-bb56-4c95-adfa-c206021827e9" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-26 082025" src="https://github.com/user-attachments/assets/c2bbff42-d270-415c-a02a-7b6b0c1f0007" />
   <img width="735" height="520" alt="image" src="https://github.com/user-attachments/assets/c3663b2a-5906-4fa1-bc0c-df3f8cee91ce" />
   <img width="758" height="710" alt="Screenshot 2026-09-19 205354" src="https://github.com/user-attachments/assets/f6e13859-b09c-4ffc-b36c-a39679382c70" />
-
+  
 ## Features
 *  It includes an 0.91 inch OLED display.
 *  Custom Macros for efficiency.
@@ -20,6 +21,11 @@ Here are some images of design which were used at first.
   <img width="997" height="627" alt="Screenshot 2026-09-13 170700" src="https://github.com/user-attachments/assets/67213033-9c71-4076-b76e-d21bbe4b9b59" />
   <img width="1919" height="1079" alt="Screenshot 2026-09-08 213948" src="https://github.com/user-attachments/assets/a6b99020-a3b4-4933-b92b-9bfed0c2d1a4" />
 
+# BILL OF MATARIALS
+* TOTAL IS $54.86 with delivery charge.<br/>
+* [BOM.xlsx](https://github.com/user-attachments/files/32676410/BOM.xlsx)<br/>
+  <img width="366" height="141" alt="image" src="https://github.com/user-attachments/assets/d8bfdbe9-792f-49a2-b1ce-1f88bdaa3850" />
+  
 
 
 
