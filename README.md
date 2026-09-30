@@ -23,8 +23,51 @@ Here are some images of design which were used at first.
 
 # BILL OF MATARIALS
 * TOTAL IS $54.86 with delivery charge.<br/>
-* [BOM.xlsx](https://github.com/user-attachments/files/32676410/BOM.xlsx)<br/>
-  <img width="366" height="141" alt="image" src="https://github.com/user-attachments/assets/d8bfdbe9-792f-49a2-b1ce-1f88bdaa3850" />
+<table>
+  <tr>
+    <th>ITEM</th>
+    <th>SOURCE</th>
+    <th>PRICE</th>
+    <th>DELIVERY CHARGE</th>
+    <th>TOTAL</th>
+  </tr>
+  <tr>
+    <td>PCB</td>
+    <td>JLCPCB</td>
+    <td>$ 4.00</td>
+    <td>$ -</td>
+    <td>$ 4.00</td>
+  </tr>
+  <tr>
+    <td>CASE-BOTTOM</td>
+    <td>JLC3DP</td>
+    <td>$ 22.34</td>
+    <td>$ 24.58</td>
+    <td>$ 46.92</td>
+  </tr>
+   <tr>
+    <td>CASE-TOP</td>
+    <td>JLC3DP</td>
+    <td>$ 3.94</td>
+    <td>$ -</td>
+    <td>$ 3.94</td>
+  </tr>
+  <tr>
+    <td>HACKPAD KIT</td>
+    <td>HACKCLUB</td>
+    <td>$ -</td>
+    <td>$ -</td>
+    <td>$ 0.00</td>
+  </tr>
+  <tr>
+    <td>TOTAL</td>
+    <td></td>
+    <td>$ 30.28</td>
+    <td>$ 24.58</td>
+    <td>$ 54.86</td>
+  </tr>
+</table>
+  
   
 
 
