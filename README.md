@@ -1,5 +1,5 @@
 # IK DEXK 
-IK DEXK is a macropad that has 9 MX Keyboard switches and 1 OLED 0.91 inch Display.
+IK DEXK is a macropad that has 16 MX Keyboard switches and 1 OLED 0.91 inch Display.
 
 ## Preview of Designs  
   <img width="1919" height="1079" alt="image" src="/Production/ASSBMBLY_IK_DEXK.png" />
