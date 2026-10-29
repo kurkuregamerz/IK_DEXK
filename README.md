@@ -1,4 +1,4 @@
-# IK DEXK 
+﻿# IK DEXK 
 IK DEXK is a macropad that has 16 MX Keyboard switches and 1 OLED 0.91 inch Display.
 
 ## Preview of Designs  
@@ -23,6 +23,7 @@ Here are some images of design which were used at first.
 
 # BILL OF MATARIALS
 * TOTAL IS $54.86 with delivery charge.<br/>
+* Check out BOM.csv for price chart<br/>
 <table>
   <tr>
     <th>ITEM</th>
