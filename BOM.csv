@@ -1,7 +1,12 @@
-﻿Item,Source,PRICE OF ITEM,Delivery Charge,Total
-PCB,JLCPCB, $ 4.00 , $ -   , $ 4.00 
-CASE-BOTTOM,JLC3DP, $ 22.34 , $ 24.58 , $ 46.92 
-CASE-TOP,JLC3DP, $ 3.94 , $ -   , $ 3.94 
-HACKPAD KIT,HACKCLUB, $ -   , $ -   , $ -   
-,,,, $ -   
-Total,, $ 30.28 , $ 24.58 , $ 54.86 
+﻿Item,Source,Source URL,Units,Price/unit,Total
+PCB,JLCPCB,https://jlcpcb.com,1," $ 4.00 "," $ 4.00 "
+CASE-BOTTOM,JLC3DP,https://jlc3dp.com,1," $ 22.34 "," $ 46.92 "
+CASE-TOP,JLC3DP,https://jlc3dp.com,1," $ 3.94 "," $ 3.94 "
+Cherry MX2A Keyswitch - Red,Sparkfun,https://www.sparkfun.com/cherry-mx2a-keyswitch-red.html,16," $ 1.95 "," $ 31.20 "
+Cherry MX Keycap - R2 (Translucent Black),Sparkfun,https://www.sparkfun.com/cherry-mx-keycap-r2-translucent-black.html,16," $ 1.05 "," $ 16.80 "
+"Seeed Studio XIAO RP2040 - Supports Arduino, MicroPython and CircuitPython",SeedStudio,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html,1," $ 3.90 "," $ 3.90 "
+Diode Small Signal - 1N4148,Sparkfun,https://www.sparkfun.com/diode-small-signal-1n4148.html,16," $ 0.25 "," $ 4.00 "
+OLED Display 0.91 Inch BLUE 4-Pin Module I2C/IIC,Techdelivers,https://techdelivers.com/0-91-inch-oled-lcd-display-module-blue-128x32-i2c-iic-serial?tag=i2c%20lcd,1," $ 1.78 "," $ 1.78 "
+M3x16mm screws,(Get it from a local hardware or fastener shop)Well priced online retailers not available,NONE,4,var,var
+M3x5mx4mm heatset inserts,(Get it from a local hardware or fastener shop)Well priced online retailers not available,NONE,4,var,var
+Total,,,," $ 39.21 "," $ 112.54 "

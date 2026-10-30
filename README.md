@@ -23,7 +23,7 @@ Here are some images of design which were used at first.
 
 # BILL OF MATARIALS
 * TOTAL IS $54.86 with delivery charge.<br/>
-* Check out BOM.csv for price chart<br/>
+
 <table>
   <tr>
     <th>ITEM</th>
@@ -68,7 +68,26 @@ Here are some images of design which were used at first.
     <td>$ 54.86</td>
   </tr>
 </table>
-  
+
+# How to get the parts if you wanna build it
+
+### Start with JLCPCB for the PCB.
+
+1. Visit <a src="https://jlcpcb.com">jlcbcb.com</a>.
+2. Click on <b>Get Instant Quote</b>.
+3. Upload <b>IK_DEXK-PCB_GERBER.zip</b> present in the production folder.
+4. Select a color of your choice and the quantity.
+5. Add to cart.
+
+### After the PCB we need to get the case.
+
+1. Visit <a src="https://jlc3dp.com">jlcbcb.com</a>.
+2. Click on <b>Get Instant Quote</b>.
+3. Upload <b>CASE BOTTOM.step</b> and <b>CASE TOP.step</b> present in the production folder.
+4. Select a color and matarial of your choice.
+5. Add to cart.
+
+Other Items direct buy link you will find in BOM.csv.
   
 
 
