@@ -87,7 +87,7 @@ Here are some images of design which were used at first.
 4. Select a color and matarial of your choice.
 5. Add to cart.
 
-Other Items direct buy link you will find in BOM.csv.
+Other Items direct buy link you will find in <a src="./BOM.csv">BOM.csv</a>.
   
 
 
